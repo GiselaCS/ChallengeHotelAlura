@@ -31,8 +31,8 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 
 
 ## Diagrama de base de datos:
-![Imagen ilustrativa del Diagrama Entidad Relacion del la base de datos.](ChallengeHotelAlura/src/main/java/com/alurahotel
-/img/DiagramaBaseDeDatosHotelAlura.png)
+![Imagen ilustrativa del Diagrama Entidad Relacion del la base de datos.](src/main/java/com/alurahotel/img/DiagramaBaseDeDatosHotelAlura.png)
+
 
 
 
