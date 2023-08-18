@@ -25,7 +25,7 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 * Java 11
 * Eclipse
 * Biblioteca JCalendar
-* MySql 8.0.30
+* MySql 8.0.33
 * Maven
 ```
 
