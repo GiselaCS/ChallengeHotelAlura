@@ -55,7 +55,9 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 #### REGISTRO DE HUÉSPED
 ![Imagen ilustrativa de registro Huésped.](src/main/java/com/alurahotel/img/cliente.png)
 
-#### SECCIÓN DE BÚSQUEDA
-![Imagen ilustrativa de la búsqueda.](src/main/java/com/alurahotel/img/reservaBusqueda.png)
+#### SECCIÓN DE BÚSQUEDA RESERVAS
+![Imagen ilustrativa de la búsqueda.](src/main/java/com/alurahotel/img/reservasBusqueda.png)
 
+#### SECCIÓN DE BÚSQUEDA HUÉSPEDES
+![Imagen ilustrativa de la búsqueda.](src/main/java/com/alurahotel/img/huespedesbusqueda.png)
 
