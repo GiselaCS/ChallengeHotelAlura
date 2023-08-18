@@ -33,21 +33,29 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 ## Diagrama de base de datos:
 ![Imagen ilustrativa del Diagrama Entidad Relacion del la base de datos.](src/main/java/com/alurahotel/img/DiagramaBaseDeDatosHotelAlura.png)
 
+## Funcionamiento:
+![Imagen ilustrativa de la pagina de inicio.](src/main/java/com/alurahotel/img/Hotel.gif)
 
-
-
-
+>Contraseña por defecto "admin".
 
 ## Interfaz implementada:
 
 #### INICIO DE SESIÓN
+![Imagen ilustrativa de la pagina de inicio.](src/main/java/com/alurahotel/img/PaginaInicio.png)
+
+#### LOGIN
+![Imagen ilustrativa del login.](src/main/java/com/alurahotel/img/login.png)
 
 #### MENÚ PRINCIPAL
+![Imagen ilustrativa del menu principal.](src/main/java/com/alurahotel/img/menuprincipal.png)
 
 #### REGISTRO DE NUEVA RESERVA
+![Imagen ilustrativa de reserva.](src/main/java/com/alurahotel/img/reserva.png)
 
-#### REGISTRO DE HUESPED
+#### REGISTRO DE HUÉSPED
+![Imagen ilustrativa de registro Huésped.](src/main/java/com/alurahotel/img/cliente.png)
 
 #### SECCIÓN DE BÚSQUEDA
+![Imagen ilustrativa de la búsqueda.](src/main/java/com/alurahotel/img/reservaBusqueda.png)
 
 
